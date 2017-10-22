@@ -1,6 +1,8 @@
 # A scalable agent based multi-modal modelling framework using real-time big-data sources for cities
 > Gerard Casey, Kenichi Soga, Elisabete Silva, Peter Guthrie, Krishna Kumar
 
+> Published in Transportation Research Board 96th Annual Meeting Transportation Research Board
+
 [![License CC-By-NC-4.0](https://img.shields.io/badge/license-CC--By--NC--4.0-brightgreen.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 
